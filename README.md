@@ -27,5 +27,6 @@ O escopo do projeto de automação abrange as seguintes áreas:
 # Casos de Teste
 
 <p align="center">
-  <img src="https://github.com/tatarv/swag-labs-selenium-cucumber/blob/main/Casos%20de%20Teste%20-%20MindMap.png">
+  <img src="https://github.com/tatarv/postman-library-api-rest-assured/blob/main/Casos%20de%20Teste%20-%20MindMap.png">
+  
 </p>
